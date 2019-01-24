@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Gurgen Oganesyan](https://up.htmlacademy.ru/htmlcss/24/user/929717).
-* Наставник: `Неизвестно`.
+* Наставник: [Алексей Дорофеев](https://htmlacademy.ru/profile/id299055).
 
 ---
 
